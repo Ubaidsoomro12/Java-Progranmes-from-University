@@ -1,0 +1,38 @@
+==========With the help of Operator======
+
+1. Days (500) ==> to years|months|weeks|remaining days
+2. ATM COUNTER (5420) ==> 5000=1, 1000=0, 500, 100, 50, 20, 10, 5, 2, 1
+3. Salary 
+	Enter BasicPay: 10000
+	HouseRent 45%= 4500
+	MedicalAllowance15%= 1500
+	Bonus 5%= 500
+	GrossPay= 16500
+	IncomeTax 5%= 500
+	ConvanceAllowance 8%= 800
+	Zukwat 2.5%= 250
+	=========================
+	NetIncome= 14950
+-----------------------------------------------------------------------
+(JAVA CONVERTOR PROGRAM)
+FeetToInch,  InchToFeet, KiloToGram, GramToKilo,
+
+DaysToMonth             DaysToWeek,             DaysToYear 
+MinutesToHours          SecondsToMinutes        SecondsToHours
+MinutesToYear    	SecondToYear    	WeekToYear
+MinutesToWeek    	SecondToWeek    	WeekToDays
+MinutesToDays    	SecondToDays 		WeekToHours
+MinutesToHours   	SecondToHours 		WeekToMinutes
+MinutesToSeconds 	SecondToMinutes 	WeekToSeconds
+------------------------------------------------------------------------
+TROLLYLOAD:
+Enter trollyload = 1     if 2
+Total =  800		1600
+Driver= 150		300
+Tax 10% = 80		160
+Diesal = 200		400
+---------------	    ------------	
+Profit = 370		Profit= 740
+
+
+

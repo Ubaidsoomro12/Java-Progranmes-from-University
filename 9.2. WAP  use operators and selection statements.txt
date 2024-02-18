@@ -1,0 +1,53 @@
+===========with help of operator and selection statements EXCERSICES========
+Create below programs in computer as well as register: 
+-----------------------------------------------------------------------------------------------
+1. WAP: if age is greater than 18 "you can do marriage" if not print "you cannot do marriage".
+-----------------------------------------------------------------------------------------------
+2. WAP: create a marksheet that display following marks are: 
+        1 to 39 = print "fail"
+        40 to 49 = print "D grade"
+        50 to 59 = print "C grade"
+        60 to 69 = print "B grade"
+        70 to 79 = print "A grade"
+        80 to 100 = print "A1 grade"
+        if 105 or -40 then print "Invalid Number"
+-----------------------------------------------------------------------------------------------
+3. WAP: create nested if condition that check if age is above 18 and weight is above 70kg then 
+        you can donate blood. 
+-----------------------------------------------------------------------------------------------
+4. WAP: create nested if condition where match these conditions are:
+        =username is = Admin
+        =password is = Admin2000
+        =email is    = admin@gmail.com
+        then display "you are welcome"
+-----------------------------------------------------------------------------------------------
+5. WAP: Swiping Values using 3rd variable.
+----------------------------------------------------------------------------------------------
+6. WAP: Swiping Values Not using the 3rd Variable.
+----------------------------------------------------------------------------------------------
+7. WAP: Create a program to check number is EVEN or ODD.
+----------------------------------------------------------------------------------------------
+8. WAP: Create a program that number is negative or positive or zero. 
+        (Greater than zero)(less then zero)(or equal to zero)
+-----------------------------------------------------------------------------------------------
+9. WAP: Create a program that find the largest number using 3 number.
+-----------------------------------------------------------------------------------------------
+10. WAP: Create calculator which do operation +, -, *, /.
+-----------------------------------------------------------------------------------------------
+11. WAP: Create a ATM machine service. 
+         "Welcome the GETS ATM Service"
+         1 = for Deposit Amount
+         2 = for Withdraw Amount
+         3 = for Check Balance
+         4 = Exit (thank you for using atm print)
+-----------------------------------------------------------------------------------------------
+12. WAP: Create Electricity Bill Program = 
+         1 = 100 = 1
+	 101 = 200 = 2     = if units are (102) then ans will: (104)
+	 201 = 300 = 5
+	 301 = 400 = 10  
+-----------------------------------------------------------------------------------------------
+13. WAP: Write a Season Program.
+    if Month Number is = 12 then the Seasson is (Winter)
+    11,12,1      2,3,4        5,6,7       8,9,10
+    Winter       Spring       summer      Automn
